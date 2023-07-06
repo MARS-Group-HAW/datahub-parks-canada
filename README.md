@@ -1,4 +1,4 @@
-# ESIDA Data Hub
+# Parks Canada Data Hub
 
 The Data Hub is a Python based framework for downloading and calculating spatio-temporal data to different areas of interest, like administrative levels of a country, or other shapes. For example [Copernicus land usage raster data](https://lcviewer.vito.be/) could be used as input data, and administrative areas of a country could be used to calculate the proportion of each land type (crop land, forest, …) in each administrative area.
 
@@ -6,7 +6,7 @@ The Data Hub is a Python based framework for downloading and calculating spatio-
   <img src="./docs/Data%20Hub.png" alt="Visualization of the Data Hub flow of processing raw data" />
 </p>
 
-It aims to be a decision system for epidemiology and can provide an overview with socioecological per administrative level. It is developed in the context of the [ESIDA project](https://www.haw-hamburg.de/en/research/research-projects/project/project/show/esida/) and focused on Tanzania. But this framework aims to be agnostic to its data, so you can use it for different areas and data! See the section below about [setting up a different region](#use-your-own-geographic-region-and-data).
+Originally designed and developed as a decision-support system for epidemiology (see [ESIDA](https://github.com/MARS-Group-HAW/esida-db)), the generic data hub concept was transferred to the national parks of Canada as an example.
 
 ## Installation
 
