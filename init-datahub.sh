@@ -1,6 +1,9 @@
 # build and start docker containers
 docker-compose up -d
 
+# wait for docker containers running
+sleep 10
+
 # drop database and delete all data
 docker-compose exec esida flask drop-db
 
