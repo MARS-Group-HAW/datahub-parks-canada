@@ -37,7 +37,7 @@ The Data Hub is now available at [http://localhost/](http://localhost/) - though
 $ docker-compose exec esida flask create-db          
 
 # import Tanzania region/district shape files into db
-$ docker-compose exec esida python ./esida-cli.py load-shapes ./input/shapes/esida_tza.gpkg
+$ docker-compose exec esida python ./esida-cli.py load-shapes ./input/shapes/Canada_overview.gpkg
 
 # download and process precipitation data from Meteostat
 $ docker-compose exec esida python ./esida-cli.py param meteo_tprecit extract
