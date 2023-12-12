@@ -2,30 +2,30 @@
 
 |                     | Description                                                                        |
 |:--------------------|:-----------------------------------------------------------------------------------|
-| Category            | Infrastructure                                                                     |
-| Abbreviation        | statcompiler_internet                                                              |
-| Title               | Internet usage                                                                     |
+| Category            | Demographic                                                                        |
+| Abbreviation        | dhs_education_women                                                                |
+| Title               | Education level women                                                              |
 | Necessity           | optional                                                                           |
 | Format              | CSV                                                                                |
-| Operation           | Mean                                                                               |
-| Original unit       | Proportion of population who used the internet in the past 12 months (men & women) |
-| ESIDA database unit | Proportion of population who used the internet in the past 12 months               |
+| Operation           | None                                                                               |
+| Original unit       | Median years of education                                                          |
+| ESIDA database unit | Median years of education                                                          |
 | Spatial details     | Region                                                                             |
 | Temporal details    | Cross-sectional                                                                    |
-| Timeframe           | 2016                                                                               |
+| Timeframe           | 1991/92; 1996; 1999; 2003/04; 2004/05; 2007/08; 2010; 2011/12; 2015/16; 2017; 2022 |
 | Source              | DHS Program (STATcompiler)                                                         |
 | Link to Source      | [https://www.statcompiler.com/en/](https://www.statcompiler.com/en/)               |
-| Comment             | DHS Indicator ID: CO_INUS_W_U12, CO_INUS_M_U12                                     |
+| Comment             | DHS Indicator ID: ED_EDUC_W_MYR                                                    |
 | Related Sources     | None                                                                               |
 
 ## Metadata information 
 
 |              | Description                                                                                  |
 |:-------------|:---------------------------------------------------------------------------------------------|
-| Abbreviation | statcompiler_internet                                                                        |
-| Category     | Infrastructure                                                                               |
+| Abbreviation | dhs_education_women                                                                          |
+| Category     | Demographic                                                                                  |
 | Creator      | DHS Program                                                                                  |
-| Title        | Internet usage                                                                               |
+| Title        | Education level women                                                                        |
 | Publisher    | HAW Hamburg                                                                                  |
 | Contributor  | ESIDA                                                                                        |
 | Date         | 14.06.2023                                                                                   |

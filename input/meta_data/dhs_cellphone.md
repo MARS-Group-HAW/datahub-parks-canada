@@ -3,29 +3,29 @@
 |                     | Description                                                          |
 |:--------------------|:---------------------------------------------------------------------|
 | Category            | Infrastructure                                                       |
-| Abbreviation        | statcompiler_household                                               |
-| Title               | Household members                                                    |
+| Abbreviation        | dhs_cellphone                                                        |
+| Title               | Cellphone usage                                                      |
 | Necessity           | optional                                                             |
 | Format              | CSV                                                                  |
-| Operation           | None                                                                 |
-| Original unit       | Mean number of household members                                     |
-| ESIDA database unit | Mean number of household members                                     |
+| Operation           | Mean                                                                 |
+| Original unit       | Proportion of population who own a mobile phone (men & women)        |
+| ESIDA database unit | Proportion of population who own a mobile phone                      |
 | Spatial details     | Region                                                               |
 | Temporal details    | Cross-sectional                                                      |
-| Timeframe           | 1991 - 2017                                                          |
+| Timeframe           | 2016; 2022                                                           |
 | Source              | DHS Program (STATcompiler)                                           |
 | Link to Source      | [https://www.statcompiler.com/en/](https://www.statcompiler.com/en/) |
-| Comment             | DHS Indicator ID: HC_MEMB_H_MNM                                      |
+| Comment             | DHS Indicator ID: CO_MOBB_W_MOB , CO_MOBB_M_MOB                      |
 | Related Sources     | None                                                                 |
 
 ## Metadata information 
 
 |              | Description                                                                                  |
 |:-------------|:---------------------------------------------------------------------------------------------|
-| Abbreviation | statcompiler_household                                                                       |
+| Abbreviation | dhs_cellphone                                                                                |
 | Category     | Infrastructure                                                                               |
 | Creator      | DHS Program                                                                                  |
-| Title        | Household members                                                                            |
+| Title        | Cellphone usage                                                                              |
 | Publisher    | HAW Hamburg                                                                                  |
 | Contributor  | ESIDA                                                                                        |
 | Date         | 14.06.2023                                                                                   |
